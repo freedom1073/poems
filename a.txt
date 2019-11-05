@@ -1,2 +1,1 @@
-txt sample
-and a little bit of change
+create a.txt from master
